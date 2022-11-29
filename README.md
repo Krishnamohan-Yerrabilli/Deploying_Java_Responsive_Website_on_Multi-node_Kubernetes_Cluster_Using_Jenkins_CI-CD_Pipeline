@@ -1,1 +1,1 @@
-![devops](https://user-images.githubusercontent.com/58173938/204432912-dd936257-4720-4066-bb18-bd90a9f1240e.png)
+![devops](https://user-images.githubusercontent.com/58173938/204434584-eac1b893-c789-4573-9471-93c634e0a994.png)
