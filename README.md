@@ -1,2 +1,3 @@
-# Deploying-Java-application-on-kubernetes-Cluster-using-CI-CD
-We will have a deployment over a Kubernetes cluster using Jenkins CI/CD pipeline, in this project, we are taking the help of various DevOps tools like GitHub, Jenkins, Ansible and a Kubernetes cluster.
+
+
+![devops](https://user-images.githubusercontent.com/58173938/204430245-e9a8c8b0-9bea-4161-b547-e26d5bbaf440.png)
