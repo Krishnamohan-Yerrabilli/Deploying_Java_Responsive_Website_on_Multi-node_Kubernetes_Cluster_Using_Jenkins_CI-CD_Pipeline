@@ -1,3 +1,1 @@
-
-
-![devops](https://user-images.githubusercontent.com/58173938/204430245-e9a8c8b0-9bea-4161-b547-e26d5bbaf440.png)
+![devops](https://user-images.githubusercontent.com/58173938/204432912-dd936257-4720-4066-bb18-bd90a9f1240e.png)
