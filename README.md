@@ -12,6 +12,7 @@
 
 - [Java Springboot](https://spring.io/guides/gs/spring-boot/) 
 - [Responsive Web Design](https://scrimba.com/learn/responsive)
+- [GitHub](https://skills.github.com/)
 - [Jenkins](https://blog.kubesimplify.com/introduction-to-jenkins)
 - [Groovy](https://www.jenkins.io/doc/book/pipeline/getting-started/)
 - [Gradle](https://www.vogella.com/tutorials/GradleTutorial/article.html)
@@ -24,55 +25,11 @@
 
 ## Agenda
 
-> We will automate the whole operation using Jenkins.
+Jenkins file must be in the Github(Not using Jenkins inbuilt `pipeline script`)
+Must want to be give repo account url and branch details 
 
-- Creating a site using the `Spring framework`, for the further process we make use of `SonarQube` for <br>
-`StaticCode Analysis` for checking our source repo,  later we make use of the `SonarQube quality gate` <br>
-check status, if we get a positive result then we will be ok, if it doesn't go well, we will stop there.
-
-- Which in turn performs some checks against sonar rules 
-
-```
-Task :compileJava UP-TO-DATE
-Task :processResources UP-TO-DATE
-Task :classes UP-TO-DATE
-Task :compileTestJava UP-TO-DATE
-Task :sonarqube
-```
-
-- Later we build the application using Gradle, which is a build automation tool after We make use of <br>
-a multi-stage dockerfile.
-
-```
-FROM openjdk:11 as base 
-WORKDIR /app
-COPY . . 
-RUN chmod +x gradlew
-RUN ./gradlew build 
-
-FROM tomcat:9
-WORKDIR webapps
-COPY --from=base /app/build/libs/Responsive_website-0.0.1-SNAPSHOT.war .
-RUN rm -rf ROOT && mv Responsive_website-0.0.1-SNAPSHOT.war ROOT.war  
-
-```
-
-- The resulting image will be tagged and pushed to the `nexus registry` which is `private`, <br>
-  Our `whole application` and its related `dependencies` will `not be exposed` to the `outside world`.
-
-- Kubernetes uses a `data serialization` lang called `YAML`,we make use of Helm which is a package <br>
-manager for `Kubernetes` 
-
-- To validate the `YAML files` we will use `Datree` which is a tool to find `misconfigurations` among `YAML` <br>
-files, we can change the `default` `configurations` and also we can `create new rules`(customize) over datree.io 
-
-- Before we Deploy final product into `production`, we will have a `manual review`, which is `notified` to <br>
-the `senior persons` through mail. Only after `successful review` either it will be `accepted` or `rejected` <br>
-`based` on how previous steps `performed.`
-
-- We're using `kubeadm` to set up a `multi-node` Kubernetes cluster, and join the other node(data plane) <br>
-via `kubejoin`, here the deployment takes place through the `helm.`
-
+![Kubernetes final image (11)](https://user-images.githubusercontent.com/58173938/206227032-3372c4c5-94d0-4290-be63-869aae154bad.png)
+   
 ## Project is divided into 8 parts
 
 - [Server Setup]()
