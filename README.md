@@ -66,14 +66,14 @@ RUN rm -rf ROOT && mv Responsive_website-0.0.1-SNAPSHOT.war ROOT.war
 
 ## Project is divided into 6 parts
 
-[Server Setup]
-[Integrating SonarQube with Jenkins]
-[Creating Docker hosted repository in Nexus and pushing the docker image through Jenkins]
-[Creating Helm hosted repository in Nexus and Pushing the helm charts]
-[Configuring mail server in Jenkins]
-[How to pull the images from private repository ( nexus ) to k8s kubeadm cluster]
-[connecting Jenkins with Kubernetes cluster]
-[Configuring PR-based trigger in Jenkins]
+- [Server Setup]()
+- [Integrating SonarQube with Jenkins]()
+- [Creating Docker hosted repository in Nexus and pushing the docker image through Jenkins]()
+- [Creating Helm hosted repository in Nexus and Pushing the helm charts]()
+- [Configuring mail server in Jenkins]()
+- [How to pull the images from private repository ( nexus ) to k8s kubeadm cluster]()
+- [connecting Jenkins with Kubernetes cluster]()
+- [Configuring PR-based trigger in Jenkins]()
 
 ## ❤ Show your support
 
