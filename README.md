@@ -25,8 +25,8 @@
 
 ## Agenda
 
-Jenkins file must be in the Github(Not using Jenkins inbuilt `pipeline script`)
-Must want to be give repo account url and branch details 
+`Jenkins` file must be in the Github(Not using Jenkins inbuilt `pipeline script`)
+Must give repo account url and branch details.
 
 ![Kubernetes final image (11)](https://user-images.githubusercontent.com/58173938/206227032-3372c4c5-94d0-4290-be63-869aae154bad.png)
    
