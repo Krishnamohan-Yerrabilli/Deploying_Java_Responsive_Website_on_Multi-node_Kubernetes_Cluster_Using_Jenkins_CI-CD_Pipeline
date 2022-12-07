@@ -28,15 +28,17 @@
 
 > We will automate the whole operation using Jenkins.
 
-- Creating a site using the `Spring framework`, for the further process we make use of `SonarQube` for `Static Code Analysis` for checking our source repo,  later we make use of the `SonarQube quality gate` check status, if we get a positive result then we will be ok, if it doesn't go well, we will stop there.
+- Creating a site using the `Spring framework`, for the further process we make use of `SonarQube` for `StaticCode Analysis` for checking our source repo,  later we make use of the `SonarQube quality gate` check status, if we get a positive result then we will be ok, if it doesn't go well, we will stop there.
  
 - Which in turn performs some checks against sonar rules 
 
+```
 	`Task :compileJava UP-TO-DATE`
 	`Task :processResources UP-TO-DATE`
 	`Task :classes UP-TO-DATE`
 	` Task :compileTestJava UP-TO-DATE`
 	` Task :sonarqube`
+```
 
 - Later we build the application using Gradle, which is a build automation tool after We make use of a multi-stage dockerfile.
 
