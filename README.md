@@ -26,19 +26,22 @@
 
 > We will automate the whole operation using Jenkins.
 
-- Creating a site using the `Spring framework`, for the further process we make use of `SonarQube` for `StaticCode Analysis` for checking our source repo,  later we make use of the `SonarQube quality gate` check status, if we get a positive result then we will be ok, if it doesn't go well, we will stop there.
- 
+- Creating a site using the `Spring framework`, for the further process we make use of `SonarQube` for <br>
+`StaticCode Analysis` for checking our source repo,  later we make use of the `SonarQube quality gate` <br>
+check status, if we get a positive result then we will be ok, if it doesn't go well, we will stop there.
+
 - Which in turn performs some checks against sonar rules 
 
 ```
-	`Task :compileJava UP-TO-DATE`
-	`Task :processResources UP-TO-DATE`
-	`Task :classes UP-TO-DATE`
-	` Task :compileTestJava UP-TO-DATE`
-	` Task :sonarqube`
+Task :compileJava UP-TO-DATE
+Task :processResources UP-TO-DATE
+Task :classes UP-TO-DATE
+Task :compileTestJava UP-TO-DATE
+Task :sonarqube
 ```
 
-- Later we build the application using Gradle, which is a build automation tool after We make use of a multi-stage dockerfile.
+- Later we build the application using Gradle, which is a build automation tool after We make use of <br>
+a multi-stage dockerfile.
 
 ```
 FROM openjdk:11 as base 
@@ -54,24 +57,32 @@ RUN rm -rf ROOT && mv Responsive_website-0.0.1-SNAPSHOT.war ROOT.war
 
 ```
 
-- The resulting image will be tagged and pushed to the nexus registry which is indeed private, our whole application and its related dependencies will not be exposed to the outside world.
+- The resulting image will be tagged and pushed to the `nexus registry` which is `private`, <br>
+  Our `whole application` and its related `dependencies` will `not be exposed` to the `outside world`.
 
-- Kubernetes uses a data serialization lang called YAML,we make use of Helm which is a package manager for Kubernetes 
+- Kubernetes uses a `data serialization` lang called `YAML`,we make use of Helm which is a package <br>
+manager for `Kubernetes` 
 
-- To validate the YAML files we will use Datree which is a tool to find misconfigurations among YAML files, we can change the default configurations and also we can create new rules over datree.io 
+- To validate the `YAML files` we will use `Datree` which is a tool to find `misconfigurations` among `YAML` <br>
+files, we can change the `default` `configurations` and also we can `create new rules`(customize) over datree.io 
 
-- We're using kubeadm to set up a multi-node Kubernetes cluster, and join the other node(data plane) via kubejoin, here the deployment takes place through the helm.
+- Before we Deploy final product into `production`, we will have a `manual review`, which is `notified` to <br>
+the `senior persons` through mail. Only after `successful review` either it will be `accepted` or `rejected` <br>
+`based` on how previous steps `performed.`
 
-## Project is divided into 6 parts
+- We're using `kubeadm` to set up a `multi-node` Kubernetes cluster, and join the other node(data plane) <br>
+via `kubejoin`, here the deployment takes place through the `helm.`
+
+## Project is divided into 8 parts
 
 - [Server Setup]()
+- [Jenkins Configurations]()
 - [Integrating SonarQube with Jenkins]()
 - [Creating Docker hosted repository in Nexus and pushing the docker image through Jenkins]()
 - [Creating Helm hosted repository in Nexus and Pushing the helm charts]()
 - [Configuring mail server in Jenkins]()
-- [How to pull the images from private repository ( nexus ) to k8s kubeadm cluster]()
-- [connecting Jenkins with Kubernetes cluster]()
-- [Configuring PR-based trigger in Jenkins]()
+- [How to pull the images from private repository (nexus) to k8s kubeadm cluster]()
+- [Connecting Jenkins with Kubernetes cluster]()
 
 ## ❤ Show your support
 
