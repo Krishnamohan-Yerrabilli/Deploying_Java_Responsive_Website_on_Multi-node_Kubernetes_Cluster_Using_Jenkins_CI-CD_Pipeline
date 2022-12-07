@@ -1,7 +1,5 @@
 <div align="center">
 
-## Deployment on Kubernetes Cluster using Jenkins CI/CD Project
-
 ![MY-PROJECT](https://user-images.githubusercontent.com/58173938/206105042-1ffb6be9-8ed0-4d86-8bb0-bba1415f45ee.png)
 
 ### Whole Project Code Available [Here](https://github.com/Krishnamohan-Yerrabilli/Java_Gradle_Responsive_Website)
@@ -10,7 +8,7 @@
 
 </div> 
 
-## Prerequisites/tools needed to work on this project. 
+### Prerequisites/tools needed to work on this project. 
 
 - [Java Springboot](https://spring.io/guides/gs/spring-boot/) 
 - [Responsive Web Design](https://scrimba.com/learn/responsive)
