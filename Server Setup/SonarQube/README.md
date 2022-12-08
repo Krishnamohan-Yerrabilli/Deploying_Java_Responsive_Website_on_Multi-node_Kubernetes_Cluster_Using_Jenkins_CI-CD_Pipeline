@@ -8,6 +8,8 @@ Static code analysis is a method for identifying bugs and other quality issues i
 
 ![2 boot disk change to ubuntu 18 04 lts and 15gb of memory](https://user-images.githubusercontent.com/58173938/206370300-edae2b86-8109-4e75-8cfc-8394609b5512.png)
 
+### Allow http and https traffic and tap on create
 
+![3 Allow http and https traffic and tap on create](https://user-images.githubusercontent.com/58173938/206370409-a437a2d9-4e09-43b0-8339-957866057a9d.png)
 
 
