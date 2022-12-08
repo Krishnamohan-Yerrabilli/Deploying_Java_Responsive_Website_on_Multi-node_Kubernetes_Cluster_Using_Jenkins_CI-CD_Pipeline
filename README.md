@@ -13,7 +13,7 @@
 - [Java Springboot](https://spring.io/guides/gs/spring-boot/) 
 - [Responsive Web Design](https://scrimba.com/learn/responsive)
 - [GitHub](https://skills.github.com/)
-- [Cloud-Computing](https://blog.kubesimplify.com/cloud-computing)
+- [Cloud Computing](https://blog.kubesimplify.com/cloud-computing)
 - [Jenkins](https://blog.kubesimplify.com/introduction-to-jenkins)
 - [Groovy](https://www.jenkins.io/doc/book/pipeline/getting-started/)
 - [Gradle](https://www.vogella.com/tutorials/GradleTutorial/article.html)
@@ -33,7 +33,7 @@ Must give repo account url and branch details.
 
 ## Project is divided into 8 parts
 
-- [Server Setup]()
+- [Server Setup](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline/tree/main/Server%20Setup)
 - [Jenkins Configurations]()
 - [Integrating SonarQube with Jenkins]()
 - [Creating Docker hosted repository in Nexus and pushing the docker image through Jenkins]()
