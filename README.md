@@ -25,11 +25,11 @@
 
 ## Agenda
 
-`Jenkinsfile` must be in the Github(Not using Jenkins inbuilt `pipeline script`)
+`Jenkinsfile` must be in the Github(We're not using Jenkins inbuilt `Pipeline script`)
 Must give repo account url and branch details.
 
-![Kubernetes final image](https://user-images.githubusercontent.com/58173938/206229345-ad395c67-ac3a-486b-b978-792c8799181d.jpg)
-   
+![Project final image](https://user-images.githubusercontent.com/58173938/206338641-ad068a06-bd7a-4dfd-b052-457449242e8a.png)
+
 ## Project is divided into 8 parts
 
 - [Server Setup]()
