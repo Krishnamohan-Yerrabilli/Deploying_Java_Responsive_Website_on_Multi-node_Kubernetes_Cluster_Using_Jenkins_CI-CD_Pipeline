@@ -13,3 +13,7 @@ Kubeadm is a tool built to provide kubeadm init and Kubeadm join as best-practic
 ### Boot disk set to ubuntu 18.04 lts and 15gb of memory
 
 ![2 boot disk change to ubuntu 18 04 lts and 15gb of memory](https://user-images.githubusercontent.com/58173938/206425978-0cee3378-8436-4889-aa3b-19dad5e68615.png)
+
+### Allow http and https traffic and tap on create
+
+![3 Allow http and https traffic and tap on create](https://user-images.githubusercontent.com/58173938/206426247-f42faa01-9ffe-437b-a054-75e053a49675.png)
