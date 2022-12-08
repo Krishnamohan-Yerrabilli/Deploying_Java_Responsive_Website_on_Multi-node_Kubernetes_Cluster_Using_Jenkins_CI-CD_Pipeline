@@ -4,3 +4,10 @@ Static code analysis is a method for identifying bugs and other quality issues i
 
 ![1 sonarqube provison](https://user-images.githubusercontent.com/58173938/206370112-a27858e0-d295-4914-b2fb-b287ee9bfa6e.png)
 
+### Change to ubuntu 18.04 lts and 15gb of memory
+
+![2 boot disk change to ubuntu 18 04 lts and 15gb of memory](https://user-images.githubusercontent.com/58173938/206370300-edae2b86-8109-4e75-8cfc-8394609b5512.png)
+
+
+
+
