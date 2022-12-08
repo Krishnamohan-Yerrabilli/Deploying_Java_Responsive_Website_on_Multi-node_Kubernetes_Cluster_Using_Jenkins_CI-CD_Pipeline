@@ -13,6 +13,7 @@
 - [Java Springboot](https://spring.io/guides/gs/spring-boot/) 
 - [Responsive Web Design](https://scrimba.com/learn/responsive)
 - [GitHub](https://skills.github.com/)
+- [Cloud-Computing](https://blog.kubesimplify.com/cloud-computing)
 - [Jenkins](https://blog.kubesimplify.com/introduction-to-jenkins)
 - [Groovy](https://www.jenkins.io/doc/book/pipeline/getting-started/)
 - [Gradle](https://www.vogella.com/tutorials/GradleTutorial/article.html)
