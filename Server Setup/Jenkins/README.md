@@ -18,5 +18,6 @@ SSDs, local SSDs or a combination of different disks.
 
 ![2 boot disk change to ubuntu 20 04 lts x86 instruction set](https://user-images.githubusercontent.com/58173938/206348059-8d8a5b26-067b-4507-8f71-03612a4c6655.png)
 
+### Allow Http and Https traffic
 
-
+![3 Allow Http and Https traffic](https://user-images.githubusercontent.com/58173938/206348226-0f5aacbe-2b51-48c9-8774-dd36baa169c5.png)
