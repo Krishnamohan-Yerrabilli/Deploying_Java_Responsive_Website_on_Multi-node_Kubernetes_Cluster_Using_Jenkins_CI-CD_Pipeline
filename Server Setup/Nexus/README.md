@@ -11,3 +11,7 @@ Nexus is an open source repository that supports many artifact formats, includin
 
 ![1 nexus instance installation](https://user-images.githubusercontent.com/58173938/206381807-42b02ab2-c432-4093-841b-ad6a316438c9.png)
 
+### Boot disk set to ubuntu 18 04 lts and 15gb of memory
+
+![2 boot disk change to ubuntu 18 04 lts and 15gb of memory](https://user-images.githubusercontent.com/58173938/206381927-2d44857f-c848-492d-9775-f3ada3892fd2.png)
+
