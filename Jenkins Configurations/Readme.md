@@ -256,6 +256,12 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![61 Install docker related plugins](https://user-images.githubusercontent.com/58173938/206704457-62929706-5504-459d-9d7e-a86eadc35eaf.png)
 
-### 
+### Build was successfull
+
+![62 build was successfull](https://user-images.githubusercontent.com/58173938/206704547-9b9e4343-6caa-4be6-af29-9ec12c3d75d3.png)
+
+## ❤ Show your support
+
+Give a ⭐️ if this project helped you, Happy learning!
 
 
