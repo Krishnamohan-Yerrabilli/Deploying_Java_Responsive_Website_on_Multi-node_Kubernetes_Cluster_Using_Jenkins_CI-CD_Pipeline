@@ -247,3 +247,15 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 ### Paste the script here
 
 ![59 Paste the script here](https://user-images.githubusercontent.com/58173938/206704300-45b7fe86-c768-4ac8-8682-dec09360e591.png)
+
+### Go to managed plugins
+
+![60 Go to managed plugins](https://user-images.githubusercontent.com/58173938/206704398-bb97144f-b7fd-42e1-806b-1b30356a719f.png)
+
+### Install docker related plugins
+
+![61 Install docker related plugins](https://user-images.githubusercontent.com/58173938/206704457-62929706-5504-459d-9d7e-a86eadc35eaf.png)
+
+### 
+
+
