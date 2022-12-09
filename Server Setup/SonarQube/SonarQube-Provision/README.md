@@ -10,3 +10,6 @@
 
 ![3 install docker by running the script](https://user-images.githubusercontent.com/58173938/206630727-5dd82b11-c863-480e-b267-97cf2deadcd6.png)
 
+### Now run the sonorplugin its default port no is 9000
+
+![4 Now run the sonorplugin its default port no is 9000](https://user-images.githubusercontent.com/58173938/206630826-4c1e2f53-39b3-4465-ac52-eed874be769a.png)
