@@ -147,3 +147,9 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 ### Start the Pipeline
 
 ![34 Start the Pipeline](https://user-images.githubusercontent.com/58173938/206701633-064565b4-c67a-45a4-8041-c11f9b55f4cd.png)
+
+### Modify the Jenkins file which is auto created by the jenkins extension
+
+![35 Modify the Jenkins file which is auto created by the jenkins extension](https://user-images.githubusercontent.com/58173938/206701714-01dcf2c6-a1ad-43f9-8a4c-5d9c0937a65a.png)
+
+### 
