@@ -1,4 +1,4 @@
-### Open-ssh
+### Open-SSH
 
 ![1 Open SSH to install required packages](https://user-images.githubusercontent.com/58173938/206629481-9f5e220a-4bf9-4796-8fb7-fd076e34887a.png)
 
@@ -13,3 +13,11 @@
 ### Install jdk
 
 ![4 install jdk](https://user-images.githubusercontent.com/58173938/206629590-02e344d5-10f0-4276-9b54-350344e376bf.png)
+
+### Install jenkins by running shell script
+
+![install jenkins by running shell script](https://user-images.githubusercontent.com/58173938/206630017-7b2d66fd-bf6e-4855-a635-0c479e98f222.png)
+
+### ❤ Show your support
+
+Give a ⭐️ if this project helped you, Happy learning!
