@@ -84,5 +84,7 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![19 paste here](https://user-images.githubusercontent.com/58173938/206700129-0ad1aa2c-4413-4e32-b5b5-1d6c0aeb2327.png)
 
-### 
+### Add the branch on which you create commit based job
+
+![20 add the branch on which you create commit based job](https://user-images.githubusercontent.com/58173938/206700234-df2d4a61-40ba-42fd-96d3-78f42d46aed2.png)
 
