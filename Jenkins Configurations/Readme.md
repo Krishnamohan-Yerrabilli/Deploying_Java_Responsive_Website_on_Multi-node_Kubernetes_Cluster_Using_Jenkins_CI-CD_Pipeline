@@ -64,5 +64,20 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![14 Enter the project name you created](https://user-images.githubusercontent.com/58173938/206699553-1eae26c1-33f8-4243-a09d-6cf6134f3725.png)
 
+### Select on pipeline and click on ok
+
+![15 Select on pipeline and click on ok](https://user-images.githubusercontent.com/58173938/206699663-b820020b-3770-44c2-99ff-3a6e0ae5b8e4.png)
+
+### 
+
+
+
+
+
+
+
+
+
+
 
 
