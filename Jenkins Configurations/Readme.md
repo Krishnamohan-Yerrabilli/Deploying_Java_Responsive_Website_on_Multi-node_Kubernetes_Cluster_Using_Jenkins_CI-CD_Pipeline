@@ -24,3 +24,17 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![4 start using jenkins](https://user-images.githubusercontent.com/58173938/206698509-c5c57e76-9b85-4ca3-8aaa-14ce8bf75f1b.png)
 
+### SSH to the server
+
+![5 ssh to the server](https://user-images.githubusercontent.com/58173938/206698625-72be29c0-eb65-46b7-92f7-f47d67b37966.png)
+
+### Installing helm
+
+![6 installing helm](https://user-images.githubusercontent.com/58173938/206698735-b0f88b81-afe9-4e80-9c5a-263fa707575b.png)
+
+### 
+
+
+
+
+
