@@ -128,5 +128,19 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![29 Clone the repo](https://user-images.githubusercontent.com/58173938/206701188-ac06a809-7499-45d8-9eb6-cd75b607114d.png)
 
+### Create the new branch and switch to it
+
+![30 Create the new branch and switch to it](https://user-images.githubusercontent.com/58173938/206701305-5e77b18d-bd44-485e-9fd8-b4bb6e644f1e.png)
+
+### We can see now we are switched to dev branch which we created same in jenkins
+
+![31 we can see now we are switched to dev branch which we created same in jenkins](https://user-images.githubusercontent.com/58173938/206701375-59b291bb-c119-4022-a42c-ab9805379183.png)
+
+
+
+
+
+
+
 
 
