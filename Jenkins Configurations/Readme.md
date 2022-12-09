@@ -176,4 +176,16 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![41 installing all 5 plugins and related dependencies](https://user-images.githubusercontent.com/58173938/206702314-f6313913-7014-4a83-80e5-2e51ffc927d2.png)
 
-### 
+### Restart and relogin jenkins
+
+![42 Restart and relogin jenkins](https://user-images.githubusercontent.com/58173938/206702425-5e705186-3068-46de-af21-962b13b15020.png)
+
+### Go to configure system
+
+![43 Go to configure system](https://user-images.githubusercontent.com/58173938/206702465-9e9aaaa5-e199-4404-a83e-025cfde1fe8d.png)
+
+### Enable environment variables under configuration system settings
+
+![44 Enable environment variables under configuration system settings](https://user-images.githubusercontent.com/58173938/206702518-3e72b1d6-1f7f-4935-879b-4d377eedd944.png)
+
+
