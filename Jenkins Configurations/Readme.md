@@ -215,3 +215,11 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 ### Under manage credentails click on global
 
 ![51 under manage credentails click on global](https://user-images.githubusercontent.com/58173938/206703390-304e019a-01db-4ad3-a30c-37f33821f935.png)
+
+### Click on add credentials
+
+![52 Click on add credentials](https://user-images.githubusercontent.com/58173938/206703558-02f32a07-cb25-4eaf-a677-d47c473e1737.png)
+
+
+
+
