@@ -172,4 +172,8 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![40 search for sonarqube plugins and check on 5 plugins and tap on install without restart](https://user-images.githubusercontent.com/58173938/206702173-378ced99-6805-4fa9-b26b-aecce101ffee.png)
 
+### Installing all 5 plugins and related dependencies
+
+![41 installing all 5 plugins and related dependencies](https://user-images.githubusercontent.com/58173938/206702314-f6313913-7014-4a83-80e5-2e51ffc927d2.png)
+
 ### 
