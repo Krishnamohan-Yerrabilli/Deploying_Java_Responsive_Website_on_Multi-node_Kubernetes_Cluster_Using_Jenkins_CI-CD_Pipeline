@@ -22,5 +22,6 @@ Kubeadm is a tool built to provide kubeadm init and Kubeadm join as best-practic
 
 ![1 DataPlane Provision ](https://user-images.githubusercontent.com/58173938/206597398-1f0186c1-0b8f-4e0a-8c0d-de856397357c.png)
 
+### Boot disk set to ubuntu 18.04 lts and 15gb of memory
 
-
+![2 boot disk change to ubuntu 18 04 lts and 15gb of memory](https://user-images.githubusercontent.com/58173938/206597437-c19ef34a-bfdb-4c5b-a4bc-4ac710a67140.png)
