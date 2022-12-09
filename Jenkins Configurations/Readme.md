@@ -204,6 +204,8 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![48 Give a meaningful name, then Generate Token](https://user-images.githubusercontent.com/58173938/206703078-8f6b1365-f978-4e70-9997-3715be1e7994.png)
 
-### 
+### Copy the generated token
+
+![49 Copy the generated token](https://user-images.githubusercontent.com/58173938/206703166-625501b1-74a3-41c5-8fd6-542ed10dec6e.png)
 
 
