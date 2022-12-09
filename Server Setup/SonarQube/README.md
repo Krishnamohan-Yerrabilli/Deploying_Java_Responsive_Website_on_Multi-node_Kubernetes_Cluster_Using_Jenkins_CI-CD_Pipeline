@@ -13,3 +13,6 @@ Static code analysis is a method for identifying bugs and other quality issues i
 ![3 Allow http and https traffic and tap on create](https://user-images.githubusercontent.com/58173938/206370409-a437a2d9-4e09-43b0-8339-957866057a9d.png)
 
 
+## ❤ Show your support
+
+Give a ⭐️ if this project helped you, Happy learning!
