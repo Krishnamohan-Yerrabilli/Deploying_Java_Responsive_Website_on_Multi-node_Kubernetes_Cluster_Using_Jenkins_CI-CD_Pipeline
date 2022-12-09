@@ -140,7 +140,8 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![32 Create Jenkins file](https://user-images.githubusercontent.com/58173938/206701481-c91b56bb-e8bd-47e1-bfaf-cdfdd132cf3c.png)
 
+### Install jenkinsfile extension
+
+![33 install jenkinsfile extension](https://user-images.githubusercontent.com/58173938/206701537-2d2c4e91-3afd-49ee-873a-1c791372e5ba.png)
+
 ### 
-
-
-
