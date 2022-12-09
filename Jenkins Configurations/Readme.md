@@ -232,9 +232,10 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![55 enable environment variables and give a server name paste the url select the dedicated token which is created in previous step under sonar authentication token](https://user-images.githubusercontent.com/58173938/206703850-ceffb5e3-c8b8-495e-9412-3ace1d3dc8f5.png)
 
+### Click on the jenkins pipeline which(Jenkins_based_responsive_website)
+
+![56 Click on the jenkins pipeline which(Jenkins_based_responsive_website)](https://user-images.githubusercontent.com/58173938/206703970-d6e24bce-058c-4497-85de-e625ba54ce50.png)
+
 ### 
-
-
-
 
 
