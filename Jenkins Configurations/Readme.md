@@ -192,5 +192,18 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![45 paste the your sonarqube url (Jenkins wants to communicate with sonarqube it uploads the application code then sonar will validate against sonar rules)](https://user-images.githubusercontent.com/58173938/206702803-658f130e-9495-4f00-b3b3-7eef60d25cfb.png)
 
+### Go to Administration to get the token
+
+![46 Go to Administration to get the token](https://user-images.githubusercontent.com/58173938/206702935-6cea102d-4383-459a-835a-78573dbebc50.png)
+
+### Go to users under security
+
+![47 Go to users under security](https://user-images.githubusercontent.com/58173938/206702984-577efabd-5396-4d09-a091-85aa1dde4dd3.png)
+
+### Give a meaningful name, then Generate Token
+
+![48 Give a meaningful name, then Generate Token](https://user-images.githubusercontent.com/58173938/206703078-8f6b1365-f978-4e70-9997-3715be1e7994.png)
+
+### 
 
 
