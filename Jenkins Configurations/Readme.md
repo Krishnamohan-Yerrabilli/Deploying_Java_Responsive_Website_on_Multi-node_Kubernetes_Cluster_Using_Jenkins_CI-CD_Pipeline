@@ -36,7 +36,13 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![7 install docker](https://user-images.githubusercontent.com/58173938/206698944-c0c688c1-7998-43e8-9e7a-b730a8711de4.png)
 
+### Install unzip for proper working of datree plugins
 
+![8 install unzip for proper working of datree plugins](https://user-images.githubusercontent.com/58173938/206699066-8321d82a-e7c1-4f6e-bc41-cbdd5f9d82d8.png)
+
+### Go to datree docs
+
+![9 Go to datree docs](https://user-images.githubusercontent.com/58173938/206699144-c8f72ef3-0827-4113-bb66-2061e5f18329.png)
 
 
 
