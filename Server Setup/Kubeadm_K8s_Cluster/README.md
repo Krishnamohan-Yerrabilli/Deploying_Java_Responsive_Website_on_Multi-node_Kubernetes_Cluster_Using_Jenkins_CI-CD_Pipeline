@@ -17,3 +17,10 @@ Kubeadm is a tool built to provide kubeadm init and Kubeadm join as best-practic
 ### Allow http and https traffic and tap on create
 
 ![3 Allow http and https traffic and tap on create](https://user-images.githubusercontent.com/58173938/206426247-f42faa01-9ffe-437b-a054-75e053a49675.png)
+
+### DataPlane Provision
+
+![1 DataPlane Provision ](https://user-images.githubusercontent.com/58173938/206597398-1f0186c1-0b8f-4e0a-8c0d-de856397357c.png)
+
+
+
