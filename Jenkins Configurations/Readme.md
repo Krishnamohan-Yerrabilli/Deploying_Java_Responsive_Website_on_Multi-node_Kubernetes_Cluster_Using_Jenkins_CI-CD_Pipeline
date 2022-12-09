@@ -72,9 +72,9 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![16 Select Pipeline script from SCM](https://user-images.githubusercontent.com/58173938/206699791-13ec6f19-c09d-4416-ab10-1f845f886ce9.png)
 
-### 
+### Select SCM as git
 
-
+![17 Select SCM as git](https://user-images.githubusercontent.com/58173938/206699909-b1a07829-5c9b-4e4a-9eee-e16a7b9f6d01.png)
 
 
 
