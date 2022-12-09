@@ -112,7 +112,7 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![26 Key added successfully](https://user-images.githubusercontent.com/58173938/206700838-9cdf2aaa-4b21-413b-a304-d2f0e46446bc.png)
 
+### Click on repo
 
-
-
+![27 Click on repo](https://user-images.githubusercontent.com/58173938/206700912-df156fb7-1553-498e-9cb3-6bbceb73710e.png)
 
