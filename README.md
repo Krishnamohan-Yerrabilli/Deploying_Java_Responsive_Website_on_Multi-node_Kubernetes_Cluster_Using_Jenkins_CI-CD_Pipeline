@@ -39,8 +39,8 @@ Must give repo account url and branch details.
 - [Creating Docker hosted repository in Nexus and pushing the docker image through Jenkins]()
 - [Creating Helm hosted repository in Nexus and Pushing the helm charts]()
 - [Configuring mail server in Jenkins]()
-- [How to pull the images from private repository (nexus) to k8s kubeadm cluster]()
 - [Connecting Jenkins with Kubernetes cluster]()
+- [How to pull the images from private repository (nexus) to k8s kubeadm cluster]()
 
 ## ❤ Show your support
 
