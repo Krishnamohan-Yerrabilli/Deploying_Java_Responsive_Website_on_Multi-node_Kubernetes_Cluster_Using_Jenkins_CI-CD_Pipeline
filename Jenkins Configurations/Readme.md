@@ -19,3 +19,8 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 ### Make a new password and leave the instance configuration
 
 ![3 make a new password and leave the instance configuration](https://user-images.githubusercontent.com/58173938/206697656-dffc1301-154a-4e00-8f09-3860176fb6a9.png)
+
+### Start using jenkins
+
+![4 start using jenkins](https://user-images.githubusercontent.com/58173938/206698509-c5c57e76-9b85-4ca3-8aaa-14ce8bf75f1b.png)
+
