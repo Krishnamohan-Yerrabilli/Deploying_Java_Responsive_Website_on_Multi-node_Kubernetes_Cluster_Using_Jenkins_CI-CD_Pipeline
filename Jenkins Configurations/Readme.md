@@ -32,7 +32,9 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![6 installing helm](https://user-images.githubusercontent.com/58173938/206698735-b0f88b81-afe9-4e80-9c5a-263fa707575b.png)
 
-### 
+### Install docker
+
+![7 install docker](https://user-images.githubusercontent.com/58173938/206698944-c0c688c1-7998-43e8-9e7a-b730a8711de4.png)
 
 
 
