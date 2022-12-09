@@ -243,3 +243,7 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 ### Select `withSonarQubeEnv` under sample step and select generate token under server auth token and click on Generate pipeline script
 
 ![58 Select `withSonarQubeEnv` under sample step and select generate token under server auth token and click on Generate pipeline script](https://user-images.githubusercontent.com/58173938/206704196-6c81ca70-fce5-450b-bc4b-fa08afba35b8.png)
+
+### Paste the script here
+
+![59 Paste the script here](https://user-images.githubusercontent.com/58173938/206704300-45b7fe86-c768-4ac8-8682-dec09360e591.png)
