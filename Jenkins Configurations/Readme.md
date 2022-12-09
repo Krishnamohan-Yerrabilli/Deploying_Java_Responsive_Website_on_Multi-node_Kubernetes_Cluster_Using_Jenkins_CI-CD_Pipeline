@@ -152,4 +152,16 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![35 Modify the Jenkins file which is auto created by the jenkins extension](https://user-images.githubusercontent.com/58173938/206701714-01dcf2c6-a1ad-43f9-8a4c-5d9c0937a65a.png)
 
+### Install the java image to run the gradle on the docker agent
+
+![36 install the java image to run the gradle on the docker agent](https://user-images.githubusercontent.com/58173938/206701819-c38b6313-f235-4928-ae1b-87009a9367de.png)
+
 ### 
+
+
+
+
+
+
+
+
