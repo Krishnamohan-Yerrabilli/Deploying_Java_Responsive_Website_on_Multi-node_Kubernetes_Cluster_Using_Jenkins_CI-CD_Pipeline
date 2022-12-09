@@ -44,5 +44,25 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![9 Go to datree docs](https://user-images.githubusercontent.com/58173938/206699144-c8f72ef3-0827-4113-bb66-2061e5f18329.png)
 
+### Click on integrations, then click on helm plugin
+
+![10 Click on integrations, then click on helm plugin](https://user-images.githubusercontent.com/58173938/206699250-9086dc1f-56e5-46f5-adb4-1fe86c69a80d.png)
+
+### Copy helm plugin installation command
+
+![11 copy helm plugin installation command](https://user-images.githubusercontent.com/58173938/206699309-3553d71c-c93e-45ef-9975-529060d38dc9.png)
+
+### Paste it on jenkins instance to install
+
+![12 paste it on jenkins instance to install](https://user-images.githubusercontent.com/58173938/206699415-2e3b01b8-5eca-4bad-a456-f6671166f9db.png)
+
+### Click on new item to create a new pipeline
+
+![13 click on new item to create a new pipeline](https://user-images.githubusercontent.com/58173938/206699476-c3372766-e1e6-4765-bf37-c71d413b0142.png)
+
+### Enter the project name you created
+
+![14 Enter the project name you created](https://user-images.githubusercontent.com/58173938/206699553-1eae26c1-33f8-4243-a09d-6cf6134f3725.png)
+
 
 
