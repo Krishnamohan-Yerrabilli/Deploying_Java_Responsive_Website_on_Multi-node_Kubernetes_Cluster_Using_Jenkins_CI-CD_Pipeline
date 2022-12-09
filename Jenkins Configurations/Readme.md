@@ -188,4 +188,9 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![44 Enable environment variables under configuration system settings](https://user-images.githubusercontent.com/58173938/206702518-3e72b1d6-1f7f-4935-879b-4d377eedd944.png)
 
+### Paste the your sonarqube url (Jenkins wants to communicate with sonarqube it uploads the application code then sonar will validate against sonar rules
+
+![45 paste the your sonarqube url (Jenkins wants to communicate with sonarqube it uploads the application code then sonar will validate against sonar rules)](https://user-images.githubusercontent.com/58173938/206702803-658f130e-9495-4f00-b3b3-7eef60d25cfb.png)
+
+
 
