@@ -224,6 +224,11 @@ Jenkins is an open-source automation tool written in Java with many built-in plu
 
 ![53 Select secret text under `kind`](https://user-images.githubusercontent.com/58173938/206703650-2abfd068-7881-4d74-b857-16fc1b1c46ab.png)
 
+### Give a token ID and paste the token under secret which we generated in sonarqube
+
+![54 Give a token ID and paste the token under secret which we generated in sonarqube](https://user-images.githubusercontent.com/58173938/206703736-29cd6206-ca0e-4184-995b-20e7bf5d9d18.png)
+
+### 
 
 
 
