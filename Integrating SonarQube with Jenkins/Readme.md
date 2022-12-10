@@ -16,3 +16,7 @@ While SonarQube can be used independently of Jenkins, it is often used in combin
 ### homepage project-create
 
 ![3 homepage project-create](https://user-images.githubusercontent.com/58173938/206843098-d0ed3ba6-507f-43e7-95dd-536a6af3173d.png)
+
+### Here after jenkins succesfully build completed
+
+![4 here after jenkins succesfully build completed](https://user-images.githubusercontent.com/58173938/206843149-14db3962-a566-4d56-89a7-5ee6f52f01f7.png)
