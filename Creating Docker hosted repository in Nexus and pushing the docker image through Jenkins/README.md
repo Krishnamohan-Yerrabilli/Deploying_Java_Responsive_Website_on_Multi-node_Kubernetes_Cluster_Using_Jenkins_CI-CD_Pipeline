@@ -23,3 +23,7 @@ Overall, using a hosted repository through Jenkins on a Nexus private registry c
 ###  Build was successfull
 
 ![3 Build was successfull](https://user-images.githubusercontent.com/58173938/206851491-703252c5-582f-49b9-99ff-ff332eb023d3.png)
+
+### Go to nexus
+
+![4 Go to nexus](https://user-images.githubusercontent.com/58173938/206851515-78a6fdf3-e67e-4d45-ace0-feb0e28e92ff.png)
