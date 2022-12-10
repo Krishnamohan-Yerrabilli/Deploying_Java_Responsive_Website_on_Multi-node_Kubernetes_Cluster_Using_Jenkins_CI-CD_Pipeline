@@ -28,3 +28,9 @@ While SonarQube can be used independently of Jenkins, it is often used in combin
 ### Click on webhooks under configuration
 
 ![6 Click on webhooks under configuration](https://user-images.githubusercontent.com/58173938/206843218-4b06d83f-1ae7-4488-a9d4-7bcb0032f884.png)
+
+## ❤ Show your support
+
+Give a ⭐️ if this project helped you, Happy learning!
+
+
