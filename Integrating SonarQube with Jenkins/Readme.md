@@ -5,3 +5,6 @@ SonarQube and Jenkins are both tools used for continuous integration and continu
 
 While SonarQube can be used independently of Jenkins, it is often used in combination with Jenkins to provide automated code analysis as part of the CI/CD pipeline. In this setup, Jenkins is responsible for building, testing, and deploying the software, This allows developers to quickly identify and fix any issues in their code, ensuring that the software is of high quality and free of defects.
 
+### Sonarqube access (username and password by default as admin)
+
+![1 sonarqube access (username and password by default as admin)](https://user-images.githubusercontent.com/58173938/206843031-b68f6614-6842-4ded-ae59-0c824bf523ea.png)
