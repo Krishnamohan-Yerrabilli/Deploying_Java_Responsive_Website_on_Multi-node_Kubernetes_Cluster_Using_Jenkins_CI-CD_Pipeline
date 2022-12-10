@@ -27,3 +27,11 @@ Overall, using a hosted repository through Jenkins on a Nexus private registry c
 ### Go to nexus
 
 ![4 Go to nexus](https://user-images.githubusercontent.com/58173938/206851515-78a6fdf3-e67e-4d45-ace0-feb0e28e92ff.png)
+
+###  Tap on browse and select your hosted repo
+
+![5 Tap on browse and select your hosted repo](https://user-images.githubusercontent.com/58173938/206851540-ce7cfef8-ac7a-4d10-b138-5cd1932bf21b.png)
+
+
+
+
