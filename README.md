@@ -36,11 +36,11 @@ Must give repo account url and branch details.
 - [Server Setup](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline/tree/main/Server%20Setup)
 - [Jenkins Configurations](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline/tree/dev/Jenkins%20Configurations)
 - [Integrating SonarQube with Jenkins](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline/tree/main/Integrating%20SonarQube%20with%20Jenkins)
-- [Creating Docker hosted repository in Nexus and pushing the docker image through Jenkins]()
-- [Creating Helm hosted repository in Nexus and Pushing the helm charts]()
-- [Configuring mail server in Jenkins]()
-- [Connecting Jenkins with Kubernetes cluster]()
-- [How to pull the images from private repository (nexus) to k8s kubeadm cluster]()
+- [Creating Docker hosted repository in Nexus and pushing the docker image through Jenkins](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline/tree/main/Creating%20Docker%20hosted%20repository%20in%20Nexus%20and%20pushing%20the%20docker%20image%20through%20Jenkins)
+- [Creating Helm hosted repository in Nexus and Pushing the helm charts](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline/tree/main/Creating%20Helm%20hosted%20repository%20in%20Nexus%20and%20Pushing%20the%20helm%20charts)
+- [Configuring mail server in Jenkins](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline/tree/main/Configuring%20mail%20server%20in%20Jenkins)
+- [Connecting Jenkins with Kubernetes cluster](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline/tree/main/Connecting%20Jenkins%20with%20Kubernetes%20cluster)
+- [How to pull the images from private repository (nexus) to k8s kubeadm cluster](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline/tree/main/How%20to%20pull%20the%20images%20from%20private%20repository%20(nexus)%20to%20k8s%20kubeadm%20cluster)
 
 ## ❤ Show your support
 
