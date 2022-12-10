@@ -31,14 +31,17 @@ spec:
   - name: nexus-creds
 
 ```
+- Or you can create the secret in kubernetes cluster with details
 
-Use the kubectl command to apply the updated deployment manifest to your Kubernetes cluster. This will update your deployment to use the secret when pulling images from the Nexus repository.
+```
+kubectl create secret docker-registry registry-secret --docker-server=nexus_machine_ip_only:8083 --docker-username=admin --docker-password=admin --docker-email=not-needed@example.com
+```
 
 Overall, using a Kubernetes secret to authenticate with a Private Nexus repository allows you to pull images from the repository and use them in your Kubernetes deployments. This can be useful if you want to store and manage your Docker images in a private Nexus repository, rather than using a public registry.
 
 ### Nodes are in ready state
 
-![Nodes are in ready state](https://user-images.githubusercontent.com/58173938/206860612-0d0aa022-ed87-4bca-b673-12e79681e406.png
+![Nodes are in ready state](https://user-images.githubusercontent.com/58173938/206860612-0d0aa022-ed87-4bca-b673-12e79681e406.png)
 
 ### Lets pickup anynode IP
 
