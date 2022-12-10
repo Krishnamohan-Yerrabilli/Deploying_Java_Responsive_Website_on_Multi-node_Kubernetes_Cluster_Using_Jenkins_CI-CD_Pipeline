@@ -21,4 +21,6 @@ While SonarQube can be used independently of Jenkins, it is often used in combin
 
 ![4 here after jenkins succesfully build completed](https://user-images.githubusercontent.com/58173938/206843149-14db3962-a566-4d56-89a7-5ee6f52f01f7.png)
 
+### Click on Administration
 
+![5 Click on Administration](https://user-images.githubusercontent.com/58173938/206843182-19ff7842-8c16-4fe9-92e1-680e619240a3.png)
