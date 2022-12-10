@@ -12,4 +12,6 @@ To set up a hosted repository through Jenkins on a Nexus private registry, we wi
 
 Overall, using a hosted repository through Jenkins on a Nexus private registry can help streamline our software development and deployment process, by making it easier to manage and deploy Docker images.
 
+### Generate secret pass to hide the nexus password
 
+![1 Generate secret pass to hide the nexus password](https://user-images.githubusercontent.com/58173938/206851465-e087134a-260f-4458-a6a6-adef9d143706.png)
