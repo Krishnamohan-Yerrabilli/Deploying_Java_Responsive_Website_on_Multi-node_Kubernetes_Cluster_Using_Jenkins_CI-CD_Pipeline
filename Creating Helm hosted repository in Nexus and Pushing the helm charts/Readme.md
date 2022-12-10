@@ -31,3 +31,13 @@ This would push the "myapp" Helm chart to the "Hosting-helm" Helm repository in 
 ### Select hosted repo
 
 ![3 select hosted repo](https://user-images.githubusercontent.com/58173938/206852638-ee268d85-4086-49d6-a415-44e03dda8ea3.png)
+
+### Give a meaningful name to identify the repository
+
+![4 give a meaningful name to identify the repository](https://user-images.githubusercontent.com/58173938/206852664-61b108c2-c37e-4dd8-86e4-97f70429909e.png)
+
+### Click on create repository to create a new one
+
+![5 Click on create repository to create a new one](https://user-images.githubusercontent.com/58173938/206852689-75eea682-cb0b-4a5d-8a7a-56aa9cd41365.png)
+
+
