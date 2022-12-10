@@ -29,6 +29,16 @@ While SonarQube can be used independently of Jenkins, it is often used in combin
 
 ![6 Click on webhooks under configuration](https://user-images.githubusercontent.com/58173938/206843218-4b06d83f-1ae7-4488-a9d4-7bcb0032f884.png)
 
+
+### Create Webhook, Give a meaningfull name, give the url as yours and dump the `sonarqube` webhook
+
+![7 Create Webhook, Give a meaningfull name, give the url as yours and dump the `sonarqube` webhook](https://user-images.githubusercontent.com/58173938/206844561-650e26a5-6932-4acf-80bc-4a4f1cb8d772.png)
+
+### Quality gate check
+
+![8 quality gate check](https://user-images.githubusercontent.com/58173938/206844642-a3481ba3-9f3a-4d89-bf01-d19ca107ba51.png)
+
+
 ## ❤ Show your support
 
 Give a ⭐️ if this project helped you, Happy learning!
