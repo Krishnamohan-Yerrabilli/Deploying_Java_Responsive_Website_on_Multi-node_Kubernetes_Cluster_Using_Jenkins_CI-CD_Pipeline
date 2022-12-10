@@ -44,9 +44,10 @@ This would push the "myapp" Helm chart to the "Hosting-helm" Helm repository in 
 
 ![6 Added the script to host the helm chart on nexus](https://user-images.githubusercontent.com/58173938/206852730-9c25c4cb-d283-4cc7-9848-7fb15d8d0fe0.png)
 
-### 
+### Helm chart successfully uploded to nexus
 
+![7 helm chart successfully uploded to nexus](https://user-images.githubusercontent.com/58173938/206852745-38f129f4-2b4e-4522-87fe-0cd05906d4e1.png)
 
+## ❤ Show your support
 
-
-
+Give a ⭐️ if this project helped you, Happy learning!
