@@ -1,5 +1,10 @@
+<div align="center">
+
+### Integrating SonarQube with Jenkins
+
 ![myproject](https://user-images.githubusercontent.com/58173938/206842934-179f422c-fc4f-4e5c-96ae-71ddeefe3d1f.png)
 
+</div>
 
 SonarQube and Jenkins are both tools used for continuous integration and continuous delivery (CI/CD) of software projects. SonarQube is a static code analysis tool that can be used to find bugs, vulnerabilities, and code smells in the source code of a software project. Jenkins, on the other hand, is a automation server that can be used to automate various tasks related to building, testing, and deploying software.
 
