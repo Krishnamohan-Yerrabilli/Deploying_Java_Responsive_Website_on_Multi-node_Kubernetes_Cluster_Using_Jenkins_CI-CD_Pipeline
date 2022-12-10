@@ -35,7 +35,7 @@ Must give repo account url and branch details.
 
 - [Server Setup](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline/tree/main/Server%20Setup)
 - [Jenkins Configurations](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline/tree/dev/Jenkins%20Configurations)
-- [Integrating SonarQube with Jenkins]()
+- [Integrating SonarQube with Jenkins](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline/tree/main/Integrating%20SonarQube%20with%20Jenkins)
 - [Creating Docker hosted repository in Nexus and pushing the docker image through Jenkins]()
 - [Creating Helm hosted repository in Nexus and Pushing the helm charts]()
 - [Configuring mail server in Jenkins]()
