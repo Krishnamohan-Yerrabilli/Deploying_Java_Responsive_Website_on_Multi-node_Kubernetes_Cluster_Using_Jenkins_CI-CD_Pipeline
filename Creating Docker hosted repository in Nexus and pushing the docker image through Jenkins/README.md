@@ -32,6 +32,8 @@ Overall, using a hosted repository through Jenkins on a Nexus private registry c
 
 ![5 Tap on browse and select your hosted repo](https://user-images.githubusercontent.com/58173938/206851540-ce7cfef8-ac7a-4d10-b138-5cd1932bf21b.png)
 
+### As we can see we have the repo updated with the Build ID
 
+![6 As we can see we have the repo updated with the Build ID](https://user-images.githubusercontent.com/58173938/206851567-432be5b7-a474-49c0-826a-9b93d6dbd2aa.png)
 
 
