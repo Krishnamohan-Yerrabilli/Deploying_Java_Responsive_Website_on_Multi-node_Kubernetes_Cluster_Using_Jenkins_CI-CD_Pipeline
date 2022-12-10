@@ -8,3 +8,8 @@ While SonarQube can be used independently of Jenkins, it is often used in combin
 ### Sonarqube access (username and password by default as admin)
 
 ![1 sonarqube access (username and password by default as admin)](https://user-images.githubusercontent.com/58173938/206843031-b68f6614-6842-4ded-ae59-0c824bf523ea.png)
+
+### Change into new password
+
+![2 change into new password](https://user-images.githubusercontent.com/58173938/206843077-c359c2e7-c291-4012-a2ce-f7f9e96026d4.png)
+
