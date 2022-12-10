@@ -19,3 +19,7 @@ Overall, using a hosted repository through Jenkins on a Nexus private registry c
 ### Docker build and docker push stage
 
 ![2 Create  `docker build and docker push stage`](https://user-images.githubusercontent.com/58173938/206851478-58744433-d66f-417f-819e-a0653310a9ec.png)
+
+###  Build was successfull
+
+![3 Build was successfull](https://user-images.githubusercontent.com/58173938/206851491-703252c5-582f-49b9-99ff-ff332eb023d3.png)
