@@ -1,7 +1,11 @@
+<div align=center>
+
+## Installation Guide for ubuntu 18.04 lts
 
 ![My project](https://user-images.githubusercontent.com/58173938/206922358-125e5619-3735-4e19-bb23-8c33907cb8d2.png)
+</div>
 
-### Jenkins Installation
+## Jenkins Installation
 
 Create a GCP VM using the Google Cloud Console, the gcloud command-line tool,
 or any other method you prefer. Make sure to choose Ubuntu 18.04 as the operating system.
@@ -31,7 +35,7 @@ Open a web browser and go to http://<vm-ip-address>:8080 to access the Jenkins d
 
 Follow the instructions on the screen to complete the initial setup. This will involve setting up an administrative user and selecting the plugins you want to install.
 
-### SonarQube Installation 
+## SonarQube Installation 
 
 Install the Oracle Java 8 Development Kit (JDK) by running the following commands:
 
@@ -124,7 +128,7 @@ sudo systemctl status sonarqube
   
 Open a web browser and go to http://<vm-ip-address>:9000 to access the SonarQube dashboard, where `<vm-ip-address>` is the public IP address of your GCP VM.
   
-### Nexus Installation 
+## Nexus Installation 
   
 Install the Oracle Java 8 Development Kit (JDK) by running the following commands:
 
@@ -230,7 +234,7 @@ sudo kubeadm init --pod-network-cidr=10.244.0.0/16
 ```
 After the kubeadm command completes, it will display a kubeconfig file and a join command that you can use to add other nodes to the cluster. Make sure to save these for future reference.
   
-### Helm Installation
+## Helm Installation
   
   
 Install the curl and gnupg packages by running the following command:
