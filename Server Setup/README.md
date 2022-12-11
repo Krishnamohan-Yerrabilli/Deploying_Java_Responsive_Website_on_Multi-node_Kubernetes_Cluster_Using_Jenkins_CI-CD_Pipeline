@@ -1,8 +1,9 @@
 <div align=center>
 
 ## Installation Guide for ubuntu 18.04 lts
+  
+![My-project](https://user-images.githubusercontent.com/58173938/206923305-5290845a-452d-41b6-ae2a-680fa47685f2.png)
 
-![My project](https://user-images.githubusercontent.com/58173938/206922358-125e5619-3735-4e19-bb23-8c33907cb8d2.png)
 </div>
 
 ## Jenkins Installation
@@ -309,3 +310,7 @@ You will need to log out and log back in for this change to take effect.
 ```
 docker --version
 ```
+
+## ❤ Show your support
+
+Give a ⭐️ if this project helped you, Happy learning!
