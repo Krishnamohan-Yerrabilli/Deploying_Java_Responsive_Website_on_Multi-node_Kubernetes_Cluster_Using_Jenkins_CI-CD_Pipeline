@@ -11,7 +11,7 @@
 ### Prerequisites/tools needed to work on this project. 
 
 - [Java Springboot](https://spring.io/guides/gs/spring-boot/) 
-- [Responsive Web Design](https://scrimba.com/learn/responsive)
+- [Responsive Web Design](https://github.com/Krishnamohan-Yerrabilli/Krishnamohan-Yerrabilli.github.io)
 - [GitHub](https://skills.github.com/)
 - [Cloud Computing](https://blog.kubesimplify.com/cloud-computing)
 - [Jenkins](https://blog.kubesimplify.com/introduction-to-jenkins)
