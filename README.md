@@ -4,7 +4,7 @@
 
 ### Whole Project Code Available [Here](https://github.com/Krishnamohan-Yerrabilli/Java_Gradle_Responsive_Website)
 
-### This Repo is to Teach You Each Technology/Tool and How to Implement the Whole Project Step by Step.
+### This Repo is to Teach You Each Technology/Tool and How to Implement the Complete Project Step by Step.
 
 </div> 
 
